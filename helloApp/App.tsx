@@ -6,7 +6,7 @@ export default function App() {
   const [text, setText] = useState("Hello Cutiee!");
 
   const handlePress = () => {
-    setText(text == "Hello Cutie!" ? "Life is good!" : "Hello Cutie!");
+    setText(text == "Hello Cutie!" ? "Life is good, but we gotta sort this test, build thing" : "Hello Cutie!");
   };
 
   return (
