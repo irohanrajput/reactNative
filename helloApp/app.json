@@ -30,6 +30,12 @@
         "projectId": "fa3a08e1-7595-4181-aad4-1b5d26c943f4"
       }
     },
-    "owner": "irohanrajput"
+    "owner": "irohanrajput",
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/fa3a08e1-7595-4181-aad4-1b5d26c943f4"
+    }
   }
 }

@@ -14,6 +14,7 @@ export default function App() {
       <Text style={styles.text}>
         {text}
       </Text>
+      
       <StatusBar style="auto" />
 
       <Button
