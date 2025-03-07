@@ -3,7 +3,7 @@ import { useState } from "react";
 import { StyleSheet, Text, View, Button } from "react-native";
 
 export default function App() {
-  const [text, setText] = useState("Hello Cutie!");
+  const [text, setText] = useState("Hello Cutiee!");
 
   const handlePress = () => {
     setText(text == "Hello Cutie!" ? "Life is good!" : "Hello Cutie!");

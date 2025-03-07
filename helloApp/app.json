@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "helloApp",
-    "slug": "helloApp",
+    "slug": "nezuko",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -19,10 +19,17 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.irohanrajput.nezuko"
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "fa3a08e1-7595-4181-aad4-1b5d26c943f4"
+      }
+    },
+    "owner": "irohanrajput"
   }
 }
